@@ -11,9 +11,9 @@ Satu instance digunakan sebagai database primary, dan satu instance sebagai seco
 Task Scheduler digunakan untuk menjalankan script secara otomatis setiap waktu yang ditentukan.
 * SQLCMD
 SQLCMD merupakan aplikasi untuk menjalankan query SQL Server melalui Command Prompt
-*PHP versi 8
+* PHP versi 8
 Tested menggunakan PHP v8.0.13
-*SQLSRV
+* SQLSRV
 SQLSRV merupakan penghubung dari PHP untuk dapat mengakses database di SQL Server. Instalasi dapat dilihat [di sini.](https://docs.microsoft.com/en-us/sql/connect/php/loading-the-php-sql-driver?view=sql-server-2017)
 
 ## Instalasi Logshipping
